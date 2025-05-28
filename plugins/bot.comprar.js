@@ -28,7 +28,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     const divider = '┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫';
     
     // Número de contacto
-    const contactNumber = '+524181450063';
+    const contactNumber = '+51931651504';
     
     // Crear mensaje
     const texto = `
