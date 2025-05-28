@@ -1,7 +1,7 @@
 <h1 align="center">ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚</h1>
 
 <p align="center">
- <img src= "https://github.com/wilbersaske/keili2023/edit/main/src/1.jpg](https://static.vecteezy.com/system/resources/previews/028/627/081/non_2x/watercolor-anime-character-high-quality-illustration-vector-background-photo.jpg">
+ <img src= "https://github.com/wilbersaske/keili2023/edit/main/src/1.jpg">
 </p>
 
 <div align="center">
