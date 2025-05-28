@@ -1,7 +1,7 @@
 <h1 align="center">ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚</h1>
 
 <p align="center">
- <img src= "https://github.com/wilbersaske/keili2023/edit/main/src/1.jpg">
+ <img src= "https://raw.githubusercontent.com/wilbersaske/keili2023/refs/heads/main/src/1.jpg">
 </p>
 
 <div align="center">
