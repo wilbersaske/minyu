@@ -6,8 +6,8 @@ import path from 'path';
 let handler = async (m, { conn, usedPrefix }) => {
     try {
         // Información del creador y bot oficial
-        const creatorNumber = '+524181450063';
-        const officialBotNumber = '+527461177130';
+        const creatorNumber = '+51931651504';
+        const officialBotNumber = '+51931651504';
         
         // Reacción para indicar que es un comando del bot no oficial
         m.react('❌');
