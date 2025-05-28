@@ -58,13 +58,13 @@ global.avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEy
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/BWwvJ4h5lzuLhIuXsBK0Wh'
-global.comunidad1 = 'https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk'
-global.channel = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
-global.md = 'https://github.com/Fer280809/Asta_bot'
-global.correo = 'fer280809fl@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21';
+global.gp1 = 'https://whatsapp.com/channel/0029VbAYhpiDJ6HAM3YDi32i'
+global.comunidad1 = 'https://whatsapp.com/channel/0029VbAYhpiDJ6HAM3YDi32i'
+global.channel = 'https://whatsapp.com/channel/0029VbAYhpiDJ6HAM3YDi32i'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAYhpiDJ6HAM3YDi32i'
+global.md = 'https://github.com/wilbersaske/minyu'
+global.correo = 'wilbersaske@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VbAYhpiDJ6HAM3YDi32i';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
