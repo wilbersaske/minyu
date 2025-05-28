@@ -170,15 +170,15 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
 <details>
  <summary><b>🚀 Enlaces Oficiales </b></summary>
 
- * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21)
-* 💫 Grupo Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk)
-* 🌟 Comunidad Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/KKwDZn5vDAE6MhZFAcVQeO)
+ * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/chan/0029VbAoYE99hXF1wm3zmQ21)
+* 💫 Grupo Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/JONULJhCf0JgCuL13gwk)
+* 🌟 Comunidad Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/KKZn5vDAE6MhZFAcVQeO)
 </details>
 
 <details>
 <summary><b>☎️ Contactos Directos</b></summary>
 
-* 📲 WhatsApp: [`CONTÁCTANOS`](https:/Wa.me/524181450063)
+* 📲 WhatsApp: [`CONTÁCTANOS`](https:/Wa.me)
 * 🔥 Solicita bot oficial: [`CONTÁCTANOS`](https://wa.me/527461177130)
 
 </details>
