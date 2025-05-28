@@ -16,15 +16,15 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['524181450063', ' 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔 Creador 🜲', true],
-  ['527461177130',  'ASTA_BOT', true]
-  ['5216631079388', ' neykor 🜲', true],
+  ['51931651504', ' 𝑩𝒚 ঔৣ͜͡🔥͜͡𝑲𝒆𝒊𝒍𝒊 𝒔.𝒓🔥᮫꫶ฺ໋⃜𝆹𝅦ۣ𝄁᭄', true],
+  ['56461177130',  'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚', true]
+  ['5720202020', ' ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚ 🜲', true],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['524181450063'] 
+global.suittag = ['51931651504'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -32,21 +32,21 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '2.2.0'
-global.nameqr = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.namebot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.nameqr = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚'
+global.namebot = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.botname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.wm = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.author = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.dev = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.textbot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』 • Powered By 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.packname = '𝑩𝑶𝑻 𝑺𝑬𝑻𝑺𝑼𝑵𝑨'
+global.botname = '『𝑩𝑶𝑻 𝑺𝑬𝑻𝑺𝑼𝑵𝑨•』'
+global.wm = '𝑩𝑶𝑻 𝑺𝑬𝑻𝑺𝑼𝑵𝑨'
+global.author = '𝑩𝒚 ঔৣ͜͡🔥͜͡𝑲𝒆𝒊𝒍𝒊 𝒔.𝒓🔥᮫꫶ฺ໋⃜𝆹𝅦ۣ𝄁᭄'
+global.dev = '𝑩𝒚 ঔৣ͜͡🔥͜͡𝑲𝒆𝒊𝒍𝒊 𝒔.𝒓🔥᮫꫶ฺ໋⃜𝆹𝅦ۣ𝄁᭄'
+global.textbot = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚'
+global.etiqueta = '𝑩𝒚 ঔৣ͜͡🔥͜͡𝑲𝒆𝒊𝒍𝒊 𝒔.𝒓🔥᮫꫶ฺ໋⃜𝆹𝅦ۣ𝄁᭄'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
