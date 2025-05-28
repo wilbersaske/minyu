@@ -13,30 +13,7 @@ let handler = async (m, { conn, args }) => {
 ┃ ✦@${userId.split('@')[0]}✦
 *╰┅─═￭৯•𓆩❤︎𞋯𓆪•৯￭═─┅╯*
 𖥔 ִ ۫  ּ ⋆ ִ ۫  ּ ⊹  ˑ ִ  ִֶָ  ִ ۫  ּ 𖥔 ִ ۫  ּ ⊹  ˑ  ִ ⋆ִ ۫  ּ ˑ ִ  ִֶָ
-    
-> ✰ Hola! Me llamo ✰
-*${botname}*  
-
-╭──────────┈ ↷
-│ *❀ Modo BOT* »
-│      Privado 
-│ *✦ Bot* »
-│    ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sup Bot🅑')}
-│ *ⴵ Activada* »
-│  ${uptime}
-│ *✰ Total de usuarios* »
-│     ${totalreg}
-│ *✧ Total de Comandos* »
-│  ${totalCommands}
 ╰─────────────
-
-╭━━━━━━━━━━━━━━━━━
-│ 📑 *MENÚS a un no DISPONIBLES* 📑
-│ 
-│  📑 Compra tu bot o pide informacion
-│  
-╰━━━━━━━━━━━━━━━━━
-
 *╭┅─═￭৯•𓆩❤︎𞋯𓆪•৯￭═─┅╮*
 ┃ *🔥Hola ${name},*
 *╰┅─═￭৯•𓆩❤︎𞋯𓆪•৯￭═─┅╯*
