@@ -10,21 +10,21 @@ let handler = async (m, { conn }) => {
   
   ᰔᩚ 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔
   > 🜸 Rol » *Creador*
-  > ✧ GitHub » https://github.com/Fer280809
-  > Numeno » wa.me/524181450063`
+  > ✧ GitHub » https://github.com/root
+  > Numeno » wa.me/51931651504`
   
       // Variables para la imagen y el enlace del creador (usa las globales si existen)
       const creatorImage = global.creatorImage || 'https://i.imgur.com/whjlJSf.jpg' // Imagen por defecto
-      const githubLink = 'https://github.com/Fer280809'
-      const numberLink = 'https://wa.me/524181450063'
+      const githubLink = 'https://github.com/root'
+      const numberLink = 'https://wa.me/51931651504'
   
       // Crear un mensaje con vista previa externa (thumbnail más grande)
       await conn.sendMessage(m.chat, {
         text: creatorInfo,
         contextInfo: {
           externalAdReply: {
-            title: '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔 - Creador',
-            body: '✧ Desarrollador de Asta Bot',
+            title: 'wilbersaske - Creador',
+            body: '✧ Desarrollador de setsuna Bot',
             thumbnailUrl: creatorImage,
             sourceUrl: githubLink,
             mediaType: 1,
