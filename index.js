@@ -41,9 +41,9 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 //let require = createRequire(megu)
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n✰ Iniciando Asta_bot ✰\n`))
+console.log(chalk.bold.redBright(`\n✰ Iniciando 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀 ✰\n`))
 
-say('Asta-Bot', {
+say('ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
