@@ -49,7 +49,7 @@ align: 'center',
 colors: ['magentaBright']
 })
 
-say(`Developed By • Fernando`, {
+say(`Developed By • wilbersaske`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
