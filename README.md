@@ -107,7 +107,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Fer280809/Asta_bot && cd Asta_bot
+git clone https://github.com/Fer2808ff09/Asta_bot && cd Asta_bot
 ```
 
 ```bash
@@ -160,7 +160,7 @@ npm start
 ⬇️ Click en la imagen para ir al video⬇️
 
 <a
-href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/Fer280809/Asta_bot/blob/main/src/c" height="205px"></a> 
+href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/Fer28dd0809/Asta_bot/blob/main/src/c" height="205px"></a> 
 
 </div>
 
@@ -170,7 +170,7 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
 <details>
  <summary><b>🚀 Enlaces Oficiales </b></summary>
 
- * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/chan/0029VbAoYE99hXF1w)
+ * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/chan/0029VbAoYEcc99hXfF1w)
 * 💫 Grupo Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/JOJgCuL13gwk)
 * 🌟 Comunidad Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapvDAE6MhZFAcVQeO)
 </details>
