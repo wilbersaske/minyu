@@ -7,7 +7,7 @@
 <div align="center">
   <h2>
     <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=30&duration=4000&pause=1000&color=00FF00&width=435&center=true&vCenter=true&random=false&width=435&lines=✨+ESTE+ES+EL+MEJOR+BOT+DE+WHATSAPP+✨;🔥+ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀+PREMIUM+🔥;💫+VELOCIDAD+Y+ESTABILIDAD+💫" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=30&duration=4000&pause=1000&color=00FF00&width=435&center=true&vCenter=true&random=false&width=435&lines=✨+ESTE+ES+EL+MEJOR+BOT+DE+WHATSAPP+✨; 🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀+PREMIUM+🔥;💫+VELOCIDAD+Y+ESTABILIDAD+💫" alt="Typing SVG" />
     </a>
   </h2>
 </div>
@@ -210,34 +210,34 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
     <img src="https://github.com/Fer280809.png" width="250" height="250" alt="𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔" style="border-radius: 50%; border: 5px solid gold; box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);">
   </a>
   <h3>𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔</h3>
-  <a href="https://github.com/Fer809">
+  <a href="https://github.com/Fer8ccc09">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
 ### **`🌟 Colaboradores Destacados`**
-<a href="https://github.com/Fer280809/Asta_bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Fer280809/Asta_bot" /> 
+<a href="https://github.com/Fer2808ggcf09/Asta_bot/graphs/contributors">
+<img src="https://contrib.rocks/imggcage?repo=Fer280809/Asta_bot" /> 
 </a>
 
 ### **`🙏 Créditos`**
-<a href="https://github.com/edward-1738" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/edward-1738.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
+<a href="https://github.com/edwarttggd-1738" style="display:inline-block; text-decoration: none;">
+    <img src="https://github.com/edward-yyggt1738.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
 </a>
 </a>
-<a href="https://github.com/Aqua200" style="display:inline-block; margin-right: 10px; text-decoration: none;">
+<a href="https://github.com/Aqua2gyh00" style="display:inline-block; margin-right: 10px; text-decoration: none;">
     <img src="https://github.com/Aqua200.png" width="130" height="130" alt="Neykoor💜" style="border-radius: 50%;"/>
 </a>
 
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
+<a href="https://github.com/DevAlexJshhh" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
 </a>
 <a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
+    <img src="https://github.com/Davi.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
 </a>
 </a>
-<a href="https://github.com/The-King-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
+<a href="https://github.com/The-Ky" style="display:inline-block; margin-right: 10px; text-decoration: none;">
+    <img src="https://github.com/They.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
 </a>
 
 
