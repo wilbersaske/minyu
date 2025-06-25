@@ -1,0 +1,30 @@
+{
+  "OwnerNumber": {
+    "value": "559992241471"
+  },
+  "Prefix": {
+    "value": "!"
+  },
+  "nameOwner": {
+    "value": "tedzinho"
+  },
+  "botName": {
+    "value": "𝐅𝐞𝐧𝐫𝐲𝐬-BOT"
+  },
+  "stickerAuthor": {
+    "value": "{user} 👤\n{botname} [linktr.ee/gabalvsz] 🌐\n{time} 📅"
+  },
+  "stickerPack": {
+    "value": "⚙️ Usuário:\n🤖 Criado por:\n🕒 Tempo:"
+  },
+  "NewsletterConfig": {
+    "value": "120363317585508358@newsletter"
+  },
+  "subOwners": {
+    "dono1": "",
+    "dono2": "",
+    "dono3": "",
+    "dono4": "",
+    "dono5": ""
+  }
+}

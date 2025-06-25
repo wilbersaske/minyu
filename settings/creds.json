@@ -1,0 +1,33 @@
+{
+   "APIs": {
+        "name": "🔗 Sabrina APIs", 
+        "comment": "✨ Utilizada para comandos sociais, downloads e pesquisas. A chave é gerada no momento da aquisição do bot, sendo entregue separadamente ou já integrada aqui."
+   },
+   "Gemini": {
+        "name": "🌟 GoogleGenerativeAI | Gemini",
+        "comment": "🔧 Não é necessário nenhum custo para criar a API Key no AiStudio (Google Gemini).",
+        "website": "https://aistudio.google.com/app/apikey/",
+        "type": "Free",
+        "apikeys": [
+            ""
+        ]
+   },
+   "KarloAI": {
+        "name": "🤖 KarloAI | @KakaoTeam",
+        "comment": "🛠️ Gratuito para criar aplicações. Após a criação, acesse a aplicação, vá até 'App Keys', copie a REST API Key e insira aqui.",
+        "website": "https://developers.kakao.com/console/app/",
+        "type": "Free",
+        "apikeys": [
+           ""
+        ]
+   },
+   "TMDB": {
+        "name": "🎬 The Movie Database [TMDB]",
+        "comment": "🎟️ Cadastro gratuito com planos pagos opcionais. Oferece recursos robustos mesmo na versão gratuita.",
+        "website": "https://www.themoviedb.org/settings/api/",
+        "type": "Free",
+        "apikeys": [
+           ""
+        ]
+   }
+}

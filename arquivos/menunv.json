@@ -1,0 +1,50 @@
+[
+  {
+    "comando": "/captcha 1",
+    "descricao": "utiliza para tirar ant fakes"
+  },
+  {
+    "comando": "/rei",
+    "descricao": "falará qual nação você é o rei"
+  },
+  {
+    "comando": "/ceu",
+    "descricao": "falará se você vai pro céu ou não..."
+  },
+  {
+    "comando": "/inferno",
+    "descricao": "diz quantos % de chance você vai pro inferno"
+  },
+  {
+    "comando": "/preto",
+    "descricao": "dissera que tipo de preto você 🫵 é"
+  },
+  {
+    "comando": "/namorada",
+    "descricao": "dissera até quando sua namorada virá"
+  },
+  {
+    "comando": "/job",
+    "descricao": "falará se você é do job ou não"
+  },
+  {
+    "comando": "/noia",
+    "descricao": "verá sua porcentagem de noia!!!"
+  },
+  {
+    "comando": "/gimage2",
+    "descricao": "mandara sempre imagens em hd+"
+  },
+  {
+    "comando": "/fechargp",
+    "descricao": "ele ira fechar o grupo no horário marcado é será todos os dias"
+  },
+  {
+    "comando": "/videobug",
+    "descricao": "fazera um vídeo bug atravéz dê uma foto quê voce manda"
+  },
+  {
+    "comando": "/antiflood",
+    "descricao": "funcionara se mandarem 25 mensagens por minuto"
+  }
+]
