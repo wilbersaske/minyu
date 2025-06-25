@@ -29,11 +29,11 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/TED-BOT-V/Fenrys-BOT-V3
+cd /storage/emulated/0/Download && git clone https://github.com/Tedzinho40/FENRYS-V4
 ```
 **4° Comando**
 ```
-cd Fenrys-BOT-V3 && npm start
+cd Fenrys-BOT-V4 && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
