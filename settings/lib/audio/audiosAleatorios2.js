@@ -3,7 +3,7 @@ const axios = require('axios');
 
 // Lista de links dos áudios
 const audioUrls = [
-  'https://l.top4top.io/m_34378r91b0.mp3',
+  'https://e.top4top.io/m_34698jghd0.mp3',
   'https://files.catbox.moe/he6nly.mp3'
 ];
 
