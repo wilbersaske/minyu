@@ -41,26 +41,26 @@ async function menuHandler(tedzinho, from, pushname, date, hora, info, reply, pr
           nativeFlowInfo: {
             name: 'single_select',
             paramsJson: JSON.stringify({
-              title: "🌐 Lista completa",
+              title: "ঔৣ͜͡ீ͜❥🌺𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀 *LISTA*",
               sections: [
                 {
                   title: "🌟 Comandos Principais",
                   highlight_label: "By Fenrys V4",
                   rows: [
-                    { title: "📜 Menu Principal", description: "Comandos básicos e mais utilizados.", id: `${prefix}menupp` },
-                    { title: "🆕 Novos Comandos", description: "Veja o que há de novo no bot.", id: `${prefix}menunovo` },
+                    { title: "📜 LUCI NUDES ", description: "Comandos básicos e mais utilizados.", id: `${prefix}menupp` },
+                    { title: "NUEVOS COMANDOS", description: "Veja o que há de novo no bot.", id: `${prefix}menunovo` },
                     { title: "👑 Menu do Dono", description: "Acesso exclusivo do criador.", id: `${prefix}menudono` },
-                    { title: "🛡 Administração", description: "Ferramentas para gerenciar grupos.", id: `${prefix}menuadm` },
-                    { title: "💠 Premium", description: "Funções especiais para usuários VIP.", id: `${prefix}menupremium` },
-                    { title: "🎉 Brincadeiras", description: "Comandos para diversão no grupo.", id: `${prefix}brincadeiras` },
-                    { title: "🖼 Efeitos Visuais", description: "Aplique efeitos com estilo.", id: `${prefix}Efeitosimg` },
+                    { title: "🛡 Administradores", description: "Ferramentas para gerenciar grupos.", id: `${prefix}menuadm` },
+                    { title: "💠 Premium", description: "Funciones especiales para usuários VIP.", id: `${prefix}menupremium` },
+                    { title: "🎉 JUEGOS", description: "Comandos para diversão no grupo.", id: `${prefix}brincadeiras` },
+                    { title: "🖼 Efectos Visuales", description: "Aplique efeitos com estilo.", id: `${prefix}Efeitosimg` },
                     { title: "🪙 Sistema de Coins", description: "Ganhe e use moedas virtuais.", id: `${prefix}menucoins` },
                     { title: "⚔️ Mundo RPG", description: "Aventuras, batalhas e evolução.", id: `${prefix}menurpg` },
-                    { title: "🎨 Criação de Logos", description: "Gere logos personalizados.", id: `${prefix}menulogos` }
+                    { title: "🎨 Creacion de Logos", description: "Gere logos personalizados.", id: `${prefix}menulogos` }
                   ]
                 },
                 {
-                  title: "💖 Apoie o Projeto",
+                  title: "💖 Apoie o Projecto",
                   highlight_label: "Doações & Suporte",
                   rows: [
                     { title: "🌟 Doar via Pix", description: "Ajude o projeto com sua contribuição!", id: `${prefix}doar` }
@@ -71,7 +71,7 @@ async function menuHandler(tedzinho, from, pushname, date, hora, info, reply, pr
                   highlight_label: "Fique por dentro!",
                   rows: [
                     { title: "💬 Grupo Oficial", description: "Participe do nosso grupo!", id: `${prefix}grupobot` },
-                    { title: "🤝 Parcerias", description: "Seja um parceiro do projeto!", id: `${prefix}parcerias` }
+                    { title: "🤝 AMIGACION", description: "Seja um parceiro do projeto!", id: `${prefix}parcerias` }
                   ]
                 }
               ]
