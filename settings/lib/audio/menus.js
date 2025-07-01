@@ -7,7 +7,7 @@ function DLT_FL(filePath) {
 
 async function menuHandler(tedzinho, from, pushname, date, hora, info, reply, prefix, NomeDoBot) {
   try {
-    const imagemMenu = "https://xatimg.com/image/TyANiC68n4eZ.jpg";
+    const imagemMenu = "https://raw.githubusercontent.com/wilbersaske/keili2023/refs/heads/main/src/1.jpg";
 
     // Envia áudio do menu
     const audioBuffer = await pegarAudioAleatorioBuffer();
